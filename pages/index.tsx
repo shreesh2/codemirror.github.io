@@ -11,6 +11,7 @@ export default function Home() {
         <meta name="description" content="A Next-Generation Code Editor" />
         <meta name="keywords" content="Nextjs Typescript CodeEditor Socketio, SCSS" />
         <meta name="author" content="Hardik Kaushik" />
+        
       </Head>
 
       <main className={styles.main}>
